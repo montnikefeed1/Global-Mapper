@@ -219,4 +219,4 @@ Global Mapper is available as a full free version with all features and updates 
 Unlock the full potential of your GIS projects with Global Mapper—download now and start exploring!
 
 ---
-**Last updated:** 2026-10-11 06:41:30 UTC
+**Last updated:** 2026-10-11 13:41:20 UTC
